@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm a GeekBrains student
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
           
 <!--
