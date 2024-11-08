@@ -1,5 +1,7 @@
 ## Hi, I'm a GeekBrains student
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="react" width="40" height="40"/>
+          
           
 <!--
 **lemaks85/lemaks85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
