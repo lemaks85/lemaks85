@@ -11,8 +11,6 @@
           
 
 
-[School Repo](../Home_Work_Zuev_M/)
-
           
           
           
