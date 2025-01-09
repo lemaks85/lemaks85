@@ -9,7 +9,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemaks85&theme=2077)
 
           
-          
+|Семинары и практические задания.|Ссылки|
+|:-|:-|
+|Веб-вёрстка HTML / CSS|[Seminar HTML CSS](./Seminar%20HTML%20CSS/)|
+|Фреймворк React JS|[Seminar_REACT](./Seminar_REACT/)|
+|Продвинутый HTML + CSS|[Seminar Advanced HTML CSS](./Seminar%20Advanced%20HTML%20CSS/)|
           
           
           
