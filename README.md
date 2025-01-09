@@ -11,7 +11,7 @@
           
 
 
-[School Repo](../Home_Work_Zuev_M/)|
+[School Repo](../Home_Work_Zuev_M/)
 
           
           
