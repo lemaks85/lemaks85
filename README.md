@@ -11,7 +11,7 @@
 ## During the training, a lot of different materials and practical work have accumulated. I have tried to collect all the data in the tables below.
 
 
-<details open>      
+<details>      
 <summary> Link to Final certification. </summary>
 
 |Name block|Link|
@@ -23,7 +23,7 @@
 
 </details>
 
-<details open>
+<details>
  <summary> Link to Seminars and practical assignments. </summary>
 
 |Name block|Link|
