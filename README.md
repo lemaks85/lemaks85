@@ -16,10 +16,10 @@
 
 |Name block|Link|
 |:-|:-|
-|Block Java|[Final certification Java](./Final_control_work_on_the_java_block/)|
-|Block Linux|[Final certification Linix](./Final_control_work_on_the_linux_block/)|
-|Block Main Start|[Final certification MainStart](./Final_control_work_on_the_main_block/)|
-|Block MySQL|[Final certification MySQL](./Final_control_work_on_the_MySQL_block/)|  
+|Block Java|[Final certification Java](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Final_control_work_on_the_java_block)|
+|Block Linux|[Final certification Linix](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Final_control_work_on_the_linux_block)|
+|Block Main Start|[Final certification MainStart](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Final_control_work_on_the_main_block)|
+|Block MySQL|[Final certification MySQL](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Final_control_work_on_the_MySQL_block)|  
 
 </details>
 
