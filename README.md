@@ -9,7 +9,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemaks85&theme=2077)
 
 <details>      
-<summary> Link to Final certification. </summary>summary>
+<summary> Link to Final certification. </summary>
 
 # Final certification.
 |Name block|Link|
