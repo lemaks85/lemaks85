@@ -14,7 +14,6 @@
 <details open>      
 <summary> Link to Final certification. </summary>
 
-# Final certification.
 |Name block|Link|
 |:-|:-|
 |Block Java|[Final certification Java](./Final_control_work_on_the_java_block/)|
@@ -26,9 +25,6 @@
 
 <details open>
  <summary> Link to Seminars and practical assignments. </summary>
-
- 
-# Seminars and practical assignments.
 
 |Name block|Link|
 |:-|:-|
