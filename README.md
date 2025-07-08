@@ -52,10 +52,8 @@
 |State_diagrams|[Seminar_State_diagrams](./Seminar_State_diagrams/)|
 |Web_technologies|[Seminar_Web_technologies](./Seminar_Web_technologies/)|
 </details>
----
 
-
- > Previously hosted repositories have been moved to a folder [here](./Other_works_and_projects/)
+> Previously hosted repositories have been moved to a folder [here](./Other_works_and_projects/)
 
           
           
