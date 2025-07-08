@@ -28,7 +28,7 @@
 
 |Name block|Link|
 |:-|:-|
-|Diploma|[Graduate_work_6014](./Graduate_work_6014/)|
+|Diploma|[Graduate_work_6014](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Graduate_work_6014)|
 |GitHub|[Seminar_GitHub](./Seminar_GitHub/)|
 |HTML CSS|[Seminar HTML CSS](./Seminar%20HTML%20CSS/)|
 |Advanced HTML CSS|[Seminar Advanced HTML CSS](./Seminar%20Advanced%20HTML%20CSS/)|
