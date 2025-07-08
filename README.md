@@ -8,7 +8,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemaks85&theme=2077)
 
-<details>      
+<details open>      
 <summary> Link to Final certification. </summary>
 
 # Final certification.
@@ -21,7 +21,7 @@
 
 </details>
 
-<details>
+<details open>
  <summary> Link to Seminars and practical assignments. </summary>
 
  
@@ -53,9 +53,9 @@
 |Web_technologies|[Seminar_Web_technologies](./Seminar_Web_technologies/)|
 </details>
 
-<details>
+<details open>
 <summary> Link to Previously hosted repositories. </summary>
-> Previously hosted repositories have been moved to a folder [here](./Other_works_and_projects/)
+Previously hosted repositories have been moved to a folder [here](./Other_works_and_projects/)
 </details>
 
           
