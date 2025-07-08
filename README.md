@@ -10,6 +10,7 @@
 
 During the training, a lot of different materials and practical work have accumulated. I have tried to collect all the data in the tables below.
 
+
 <details open>      
 <summary> Link to Final certification. </summary>
 
@@ -56,6 +57,7 @@ During the training, a lot of different materials and practical work have accumu
 </details>
 
 > Previously hosted repositories have been moved to a folder [here](./Other_works_and_projects/)
+
 
 I will try to supplement and correct all the data that I will have added here.
 
