@@ -9,7 +9,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemaks85&theme=2077)
 
 <details>      
-<summary> Link to `Final certification`. </summary>
+<summary> Link to Final certification. </summary>
 
 # Final certification.
 |Name block|Link|
@@ -21,6 +21,10 @@
 
 </details>
 
+<details>
+ <summary> Link to Seminars and practical assignments. </summary>
+
+ 
 # Seminars and practical assignments.
 
 |Name block|Link|
@@ -47,7 +51,7 @@
 |Programming_paradigms|[Seminar_Programming_paradigms](./Seminar_Programming_paradigms/)|
 |State_diagrams|[Seminar_State_diagrams](./Seminar_State_diagrams/)|
 |Web_technologies|[Seminar_Web_technologies](./Seminar_Web_technologies/)|
-
+</details>
 ---
  > Previously hosted repositories have been moved to a folder [here](./Other_works_and_projects/)
 
