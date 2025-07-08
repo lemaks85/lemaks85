@@ -8,8 +8,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemaks85&theme=2077)
 
-          
-# Final certification.
+<details>      
+<summary> # Final certification. </summary>summary>
 
 |Name block|Link|
 |:-|:-|
@@ -18,7 +18,7 @@
 |Block Main Start|[Final certification MainStart](./Final_control_work_on_the_main_block/)|
 |Block MySQL|[Final certification MySQL](./Final_control_work_on_the_MySQL_block/)|  
 
-
+</details>
 
 # Seminars and practical assignments.
 
