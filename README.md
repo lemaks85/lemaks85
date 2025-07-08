@@ -9,8 +9,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemaks85&theme=2077)
 
 <details>      
-<summary> # Final certification. </summary>summary>
+<summary> Link to Final certification. </summary>summary>
 
+# Final certification.
 |Name block|Link|
 |:-|:-|
 |Block Java|[Final certification Java](./Final_control_work_on_the_java_block/)|
