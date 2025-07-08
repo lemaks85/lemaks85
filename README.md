@@ -8,7 +8,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemaks85&theme=2077)
 
-During the training, a lot of different materials and practical work have accumulated. I have tried to collect all the data in the tables below.
+## During the training, a lot of different materials and practical work have accumulated. I have tried to collect all the data in the tables below.
 
 
 <details open>      
@@ -59,7 +59,7 @@ During the training, a lot of different materials and practical work have accumu
 > Previously hosted repositories have been moved to a folder [here](./Other_works_and_projects/)
 
 
-I will try to supplement and correct all the data that I will have added here.
+## I will try to supplement and correct all the data that I will have added here.
 
 
           
