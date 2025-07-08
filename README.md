@@ -29,30 +29,30 @@
 |Name block|Link|
 |:-|:-|
 |Diploma|[Graduate_work_6014](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Graduate_work_6014)|
-|GitHub|[Seminar_GitHub](./Seminar_GitHub/)|
-|HTML CSS|[Seminar HTML CSS](./Seminar%20HTML%20CSS/)|
-|Advanced HTML CSS|[Seminar Advanced HTML CSS](./Seminar%20Advanced%20HTML%20CSS/)|
-|JavaScript|[Seminar_JS](./Seminar_JS/)|
-|JavaScript Advanced|[Seminar_Advanced_JavaScript](./Seminar_Advanced_JavaScript/)|
-|JavaScript ECMAScript|[Seminar_JS_ECMAScript](./Seminar_JS_ECMAScript/)|
-|JavaScript API|[Seminar_JS_API](./Seminar_JS_API/)|
-|Node JS|[Seminar_NodeJS](./Seminar_NodeJS/)|
-|React JS|[Seminar_REACT](./Seminar_REACT/)|
-|PHP|[Seminar_PHP](./Seminar_PHP/)|
-|PHP_Around|[Seminar_PHP_Around](./Seminar_PHP_Around/)|
-|Laravel|[Seminar_LARAVEL](./Seminar_LARAVEL/)|
-|C#|[Seminar_C#](./Seminar_C#/)|
-|Python|[Seminar_Python](./Seminar_Python/)|
-|Linux|[Linux_Containers](./Linux_Containers/)|
-|Programmer Specialization|[The_Developer_Is_a Programmer_Specialization](./The_Developer_Is_a%20Programmer_Specialization/)|
-|Flexible methodologies|[Seminar_Flexible_methodologies](./Seminar_Flexible_methodologies/)|
-|Algorithms_and_data_structures|[Seminar_Algorithms_and_data_structures](./Seminar_Algorithms_and_data_structures/)
-|Programming_paradigms|[Seminar_Programming_paradigms](./Seminar_Programming_paradigms/)|
-|State_diagrams|[Seminar_State_diagrams](./Seminar_State_diagrams/)|
-|Web_technologies|[Seminar_Web_technologies](./Seminar_Web_technologies/)|
+|GitHub|[Seminar_GitHub](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_GitHub)|
+|HTML CSS|[Seminar HTML CSS](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_HTML_CSS)|
+|Advanced HTML CSS|[Seminar Advanced HTML CSS](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_HTML%20CSS_Advanced/Home%20work)|
+|JavaScript|[Seminar_JS](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_JS)|
+|JavaScript Advanced|[Seminar_Advanced_JavaScript](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_JS_Advanced)|
+|JavaScript ECMAScript|[Seminar_JS_ECMAScript](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_JS_ECMAScript)|
+|JavaScript API|[Seminar_JS_API](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_JS_API)|
+|Node JS|[Seminar_NodeJS](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_JS_NODE)|
+|React JS|[Seminar_REACT](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_JS_REACT)|
+|PHP|[Seminar_PHP](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_PHP)|
+|PHP_Around|[Seminar_PHP_Around](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_PHP_Around)|
+|Laravel|[Seminar_LARAVEL](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_LARAVEL)|
+|C#|[Seminar_C#](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_C%23)|
+|Python|[Seminar_Python](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_Python)|
+|Linux|[Linux_Containers](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Linux_Containers)|
+|Programmer Specialization|[The_Developer_Is_a Programmer_Specialization](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/The_Developer_Is_a%20Programmer_Specialization)|
+|Flexible methodologies|[Seminar_Flexible_methodologies](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_Flexible_methodologies)|
+|Algorithms_and_data_structures|[Seminar_Algorithms_and_data_structures](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_Algorithms_and_data_structures)
+|Programming_paradigms|[Seminar_Programming_paradigms](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_Programming_paradigms)|
+|State_diagrams|[Seminar_State_diagrams](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_State_diagrams)|
+|Web_technologies|[Seminar_Web_technologies](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Seminar_Web_technologies)|
 </details>
 
-> Previously hosted repositories have been moved to a folder [here](./Other_works_and_projects/)
+> Previously hosted repositories have been moved to a folder [here](https://github.com/lemaks85/Home_Work_Zuev_M/tree/main/Other_works_and_projects)
 
 
 ## I will try to supplement and correct all the data that I will have added here.
