@@ -53,10 +53,7 @@
 |Web_technologies|[Seminar_Web_technologies](./Seminar_Web_technologies/)|
 </details>
 
-<details open>
-<summary> Link to Previously hosted repositories. </summary>
-Previously hosted repositories have been moved to a folder [here](./Other_works_and_projects/)
-</details>
+> Previously hosted repositories have been moved to a folder [here](./Other_works_and_projects/)
 
           
           
